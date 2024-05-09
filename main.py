@@ -4,6 +4,9 @@ import base64
 from bs4 import BeautifulSoup
 import re
 
+
+# URL = http://free-proxy.cz/en/proxylist/country/all/all/ping/all?do=searchFilter-submit
+# POST REQUEST
 with open("htdump.html") as file:
 	data = file.readlines()
 PATTERN = "document.write(Base64.decode(\"MTc4LjIxMy4xNDUuMjQ=\"))"
