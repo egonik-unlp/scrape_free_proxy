@@ -279,7 +279,7 @@ ruamel-yaml-conda==0.17.21
 s3fs==2023.10.0
 safetensors==0.4.2
 scikit-image==0.22.0
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 scikit-learn-intelex==20230426.111612
 scipy==1.11.4
 Scrapy==2.11.2
