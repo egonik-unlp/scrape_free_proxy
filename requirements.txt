@@ -288,7 +288,7 @@ SecretStorage==3.3.1
 semver==2.13.0
 Send2Trash==1.8.2
 service-identity==18.1.0
-setuptools==68.0.0
+setuptools==70.0.0
 sip==6.7.12
 six==1.16.0
 smart-open==5.2.1
